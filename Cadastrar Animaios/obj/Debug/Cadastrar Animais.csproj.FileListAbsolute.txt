@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Animaios\Cadastrar Animaios\bin\Debug\Cadastrar Animaios.exe.config
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Animaios\Cadastrar Animaios\bin\Debug\Cadastrar Animaios.exe
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Animaios\Cadastrar Animaios\bin\Debug\Cadastrar Animaios.pdb
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Animaios\Cadastrar Animaios\obj\Debug\Cadastrar Animais.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Animaios\Cadastrar Animaios\obj\Debug\Cadastrar Animais.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Animaios\Cadastrar Animaios\obj\Debug\Cadastrar Animais.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Animaios\Cadastrar Animaios\obj\Debug\Cadastrar Animaios.exe
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Cadastrar Animaios\Cadastrar Animaios\obj\Debug\Cadastrar Animaios.pdb
